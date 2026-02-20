@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Clean architecture**
 
-- 📫 How to reach me **leo.turpin.pro@gmail.com**
+- 📫 How to reach me **pro@leoturpin.fr**
 
 - ⚡ Fun fact **I don't know the Turpin soccer referee...**
 
